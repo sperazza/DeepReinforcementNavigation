@@ -52,7 +52,7 @@ episodes.
 
 ### Instructions
 
-Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
+The instructions in `Navigation.ipynb` can be used to load the trained agent or to get started with training your own agent!  
 
 ### (Optional) Challenge: Learning from Pixels
 
