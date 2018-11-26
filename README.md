@@ -3,6 +3,7 @@
 [image1]: https://raw.githubusercontent.com/sperazza/DeepReinforcementNavigation/master/bananas.gif "Trained Agent Score 20"
 
 # Project 1: Navigation,  Udacity Deep Reinforcement Learning
+<img src="https://raw.githubusercontent.com/sperazza/DeepReinforcementNavigation/master/bananas.gif">
 
 ### Introduction
 
